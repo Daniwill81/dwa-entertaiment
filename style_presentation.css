@@ -1,0 +1,44 @@
+h1{
+	color:navy;
+	font-size:60px;
+	font-family:magneto;
+	}
+p{
+	color:navy;
+	font-size:25px;
+}
+		
+div{
+	color:white;
+	font-size:25px;
+	text-align:center;
+	border:1.5px solid navy;
+	background-color:navy;
+}
+h6{
+	font-size:25px;
+	background-color:gray;
+}
+.para{
+	font-size:30px;
+}
+a{
+	color:white;
+	font-size:20px;
+	text-align:center;
+	border:1.5px solid navy;
+	background-color:navy;
+	width:200px;
+	height:20px;
+}
+.nous{
+	color:navy;
+	font-size:25px;
+	text-align:center;
+	border:1.5px solid navy;
+	background-color:orange;
+}
+.conct{
+	font-size:25px;
+}	
+	

@@ -1,0 +1,42 @@
+h1{
+	color:navy;
+	font-size:60px;
+	font-family:magneto;
+}
+.bleu{
+	background-color:navy;
+	color:orange;
+	font-size:25px;
+	text-align:center;
+	font-family:italic;
+}
+.orang{
+	background-color:orange;
+	color:navy;
+	font-size:25px;
+	text-align:center;
+	font-family:italic;
+}
+.nous{
+	color:white;
+	font-size:25px;
+	text-align:center;
+	border:1.5px solid navy;
+	background-color:navy;
+}
+.conct{
+	font-size:25px;
+}
+h6{
+	font-size:25px;
+	background-color:gray;
+}
+a{
+	color:white;
+	font-size:20px;
+	text-align:center;
+	border:1.5px solid navy;
+	background-color:navy;
+	width:200px;
+	height:20px;
+}

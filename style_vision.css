@@ -1,0 +1,56 @@
+h1{
+	color:navy;
+	font-size:50px;
+	font-family:magneto;
+}
+.para1{
+	color:navy;
+	font-size:25px;
+}
+.para2{
+	font-size:25px;
+	color:navy;
+}
+h6{
+	font-size:25px;
+	background-color:gray;
+}
+.idée{
+	color:orange;
+	background-color:navy;
+	width:500px;
+	height:180px;
+	border:1px solid navy;
+	font-size:20px;
+}
+ol{
+	color:orange;
+	background-color:navy;
+	width:460px;
+	height:150px;
+	border:1px solid navy;
+	font-size:20px;
+}
+div{
+	color:white;
+	border:1px solid navy;
+	background-color:navy;
+	text-align:center;
+	font-size:30px;
+}
+.para3{
+	font-size:25px;
+}
+a{
+	color:white;
+	font-size:20px;
+	text-align:center;
+	border:1.5px solid navy;
+	background-color:navy;
+	width:200px;
+	height:20px;
+} 
+
+	
+	
+	

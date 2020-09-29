@@ -1,0 +1,74 @@
+nav ul{
+	padding: 0px;
+	margin: 0px;
+	list-style-type: none;
+	background-color:black
+}
+nav li{
+	display:inline-block;
+	width:100px;
+	height:40px;
+	margin:0px;
+	padding:0px;
+	border-right:1px solid red;
+	text-align:center;
+	line-height:40px;
+}
+nav li a{
+	display:block;
+	text decoration:none;
+	color:white;
+}
+nav li:hover{
+	background:blue;
+}
+.para1{
+	background-color:navy;
+	color:white;
+	font-size:25px;
+}
+.para2{
+	background-color:orange;
+	color:white;
+	font-size:25px;
+}
+h1{
+	color:navy;
+	font-size:60px;
+	font-family:magneto;
+}
+.equipe{
+	color:white;
+	font-size:30px;
+	text-align:center;
+	border:1.5px solid navy;
+	background-color:navy;
+}
+.offre{
+	color:white;
+	font-size:30px;
+	text-align:center;
+	border:1.5px solid navy;
+	background-color:navy;
+}
+.nous{
+	color:white;
+	font-size:25px;
+	text-align:center;
+	border:1.5px solid navy;
+	background-color:navy;
+}	
+ul{
+	color:navy;
+	font-size:25px;
+}
+h6{
+	font-size:25px;
+	background-color:gray;
+}
+.conct{
+	font-size:25px;
+}
+
+	
+	

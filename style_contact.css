@@ -1,0 +1,33 @@
+.par1{
+	color:orange;
+	background-color:navy;
+	font-size:25px;
+}
+.par2{
+	font-size:25px;
+}
+a{
+	color:white;
+	font-size:20px;
+	text-align:center;
+	border:1.5px solid navy;
+	background-color:navy;
+	width:200px;
+	height:20px;
+}
+h6{
+	font-size:25px;
+	background-color:gray;
+}
+h1{
+	color:navy;
+	font-family:magneto;
+	font-size:50px;
+}
+div{
+	color:white;
+	border:1px solid navy;
+	background-color:navy;
+	text-align:center;
+	font-size:25px;
+}
